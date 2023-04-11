@@ -10,7 +10,6 @@
   },
   "keywords": [],
   "author": "Naveed Riaz",
-  "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.1",
     "config": "^3.3.8",
